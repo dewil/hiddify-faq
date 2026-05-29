@@ -61,5 +61,5 @@ markdown_extensions:
 extra:
   social:
     - icon: fontawesome/brands/telegram
-      link: https://t.me/hiddify_board
-      name: Чат сообщества Hiddify
+      link: https://t.me/hiddify_rus
+      name: Русское сообщество Hiddify
