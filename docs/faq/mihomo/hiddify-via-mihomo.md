@@ -14,7 +14,7 @@ tags:
 ## Что нужно
 
 - `hiddify-manager` уже работает в `/opt/hiddify-manager/`.
-- `mihomo` поднят и слушает SOCKS на `127.0.0.1:7890` (или `7891`). Проверка: `ss -tlnp | grep -E ':7890|:7891'`.
+- `mihomo` поднят и слушает SOCKS на `127.0.0.1:7890` (или `7891`). Проверка: `ss -tlnp | grep -E ':7890|:7891'`. Готовый настроенный mihomo (установка, конфиг, цепочка) можно взять из проекта [mihomo-cascade](https://github.com/dewil/mihomo-cascade).
 - IPv6 отключен через sysctl (см. [Отключение IPv6 на Debian/Ubuntu](../install/disable-ipv6-debian.md)) - mihomo сам это распознает и не пытается включить TUN auto-route.
 
 ## Шаги
