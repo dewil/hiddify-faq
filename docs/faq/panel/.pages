@@ -1,3 +1,5 @@
 title: Hiddify Panel
 nav:
   - Hiddify Panel не ставится или отдает 503: panel-install-troubleshooting.md
+  - Hiddify - 0 пользователей онлайн в админке: bg-tasks-pending-rollback.md
+  - Decoy Site = свой домен - бесконечный proxy-loop: decoy-site-self-loop.md

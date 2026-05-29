@@ -1,3 +1,6 @@
 title: Sing-box / Xray
 nav:
   - Sing-box или Xray в Hiddify - что выбирать: singbox-vs-xray.md
+  - nginx error_log off и распухание /etc/nginx/off: nginx-error-log-off-bug.md
+  - Hiddify шаблоны .pj2 - партиалы без парного .json: hiddify-pj2-partials.md
+  - apply_configs.sh - всегда с --no-gui --no-log: apply-configs-no-gui.md

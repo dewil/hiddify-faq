@@ -1,0 +1,6 @@
+title: Установка и обновление
+nav:
+  - Установка Hiddify на новый сервер - порядок шагов: hiddify-install-new-server.md
+  - Отключение IPv6 на Debian/Ubuntu для Hiddify: disable-ipv6-debian.md
+  - Hiddify Manager 12.3.0 - три грабли свежей установки: hiddify-install-pitfalls-12-3.md
+  - Hiddify uninstall.sh виснет на mariadb purge: hiddify-uninstall-mariadb-hang.md

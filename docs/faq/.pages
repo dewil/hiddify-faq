@@ -1,6 +1,9 @@
 nav:
-  - WARP: warp
-  - VLESS+Reality: vless-reality
+  - Установка и обновление: install
   - Hiddify Panel: panel
+  - VLESS+Reality: vless-reality
+  - WARP: warp
   - Cloudflare: cloudflare
   - Sing-box / Xray: engine
+  - Mihomo-каскад: mihomo
+  - MTProto: mtproto
