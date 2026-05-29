@@ -2,3 +2,4 @@ title: Cloudflare
 nav:
   - Cloudflare CDN режется в РФ - что делать: cloudflare-cdn-blocked-ru.md
   - Cloudflare Universal SSL не покрывает третий уровень поддомена: cloudflare-universal-ssl-depth.md
+  - Работает по Wi-Fi, но не работает с мобильного интернета: host-blocked-on-mobile-network.md

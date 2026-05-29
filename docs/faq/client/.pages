@@ -1,0 +1,8 @@
+title: Клиент и подключение
+nav:
+  - Установка и настройка клиента Hiddify: hiddify-client-install-and-setup.md
+  - Как поставить Hiddify на iPhone без App Store: ios-install-without-appstore.md
+  - Какой DNS поставить в клиенте Hiddify, чтобы грузились все сайты: hiddify-client-dns-settings.md
+  - Hiddify пишет "подключено", но сайты не открываются: connected-but-no-internet.md
+  - Режим VPN или Proxy в клиенте Hiddify и почему в Windows "нет сети": vpn-vs-proxy-mode-windows.md
+  - 'Раздельное туннелирование: российские сайты напрямую, остальное через VPN': split-tunnel-ru-direct.md

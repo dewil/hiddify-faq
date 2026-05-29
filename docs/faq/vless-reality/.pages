@@ -1,3 +1,4 @@
 title: VLESS+Reality
 nav:
   - Как настроить VLESS+Reality в Hiddify: vless-reality-setup.md
+  - 'Какой протокол выбрать для России: VLESS, Reality, Trojan, Shadowsocks': which-protocol-for-ru-dpi.md

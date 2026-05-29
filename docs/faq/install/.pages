@@ -5,3 +5,5 @@ nav:
   - Hiddify Manager 12.3.0 - три грабли свежей установки: hiddify-install-pitfalls-12-3.md
   - Hiddify uninstall.sh виснет на mariadb purge: hiddify-uninstall-mariadb-hang.md
   - Порты, файрвол и SSH на сервере с Hiddify: hiddify-ports-and-firewall.md
+  - Нужен ли домен для Hiddify и какой VPS выбрать: do-i-need-domain-and-vps-choice.md
+  - 'Установщик не качается: raw.githubusercontent.com режется в РФ': raw-githubusercontent-blocked-ru-install.md
