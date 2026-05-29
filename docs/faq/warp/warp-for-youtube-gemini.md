@@ -47,3 +47,7 @@ WARP оборачивает исходящий трафик в сеть Cloudfla
 ## Источники
 
 Из обсуждений в [@hiddify_board](https://t.me/hiddify_board), русский топик: [441424](https://t.me/hiddify_board/433634/441424), [502925](https://t.me/hiddify_board/433634/502925), [567382](https://t.me/hiddify_board/433634/567382), [569056](https://t.me/hiddify_board/433634/569056), [569849](https://t.me/hiddify_board/433634/569849), [581765](https://t.me/hiddify_board/433634/581765), [583202](https://t.me/hiddify_board/433634/583202), [584309](https://t.me/hiddify_board/433634/584309), [587120](https://t.me/hiddify_board/433634/587120).
+
+---
+
+Не помогло или есть уточняющий вопрос - заходите в русское сообщество [@hiddify_rus](https://t.me/hiddify_rus).

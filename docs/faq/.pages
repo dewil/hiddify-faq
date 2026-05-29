@@ -1,2 +1,6 @@
 nav:
   - WARP: warp
+  - VLESS+Reality: vless-reality
+  - Hiddify Panel: panel
+  - Cloudflare: cloudflare
+  - Sing-box / Xray: engine
