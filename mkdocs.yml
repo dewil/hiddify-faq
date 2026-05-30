@@ -57,3 +57,6 @@ markdown_extensions:
   - pymdownx.tasklist:
       custom_checkbox: true
   - tables
+
+extra_javascript:
+  - assets/js/external-links.js
