@@ -63,7 +63,3 @@ DEBIAN_FRONTEND=noninteractive apt-get autoremove -y
 ## Источники
 
 На основе опыта автора hiddify-faq.
-
----
-
-Не помогло или есть уточняющий вопрос - заходите в русское сообщество [@hiddify_rus](https://t.me/hiddify_rus).

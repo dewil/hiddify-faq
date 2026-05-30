@@ -77,7 +77,3 @@ systemctl start hiddify-panel-background-tasks hiddify-panel
 ## Источники
 
 Из обсуждений в [@hiddify_board](https://t.me/hiddify_board), русский топик: [436208](https://t.me/hiddify_board/433634/436208) (дашборд показывает 0 после обновления), [582467](https://t.me/hiddify_board/433634/582467) (свежий сервер 12.0.0, трафик идет, в панели 0). На основе опыта автора hiddify-faq.
-
----
-
-Не помогло или есть уточняющий вопрос - заходите в русское сообщество [@hiddify_rus](https://t.me/hiddify_rus).

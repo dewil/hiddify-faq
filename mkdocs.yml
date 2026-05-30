@@ -57,9 +57,3 @@ markdown_extensions:
   - pymdownx.tasklist:
       custom_checkbox: true
   - tables
-
-extra:
-  social:
-    - icon: fontawesome/brands/telegram
-      link: https://t.me/hiddify_rus
-      name: Русское сообщество Hiddify

@@ -83,7 +83,3 @@ systemctl reset-failed hiddify-haproxy && systemctl restart hiddify-haproxy
 ## Источники
 
 На основе опыта автора hiddify-faq.
-
----
-
-Не помогло или есть уточняющий вопрос - заходите в русское сообщество [@hiddify_rus](https://t.me/hiddify_rus).

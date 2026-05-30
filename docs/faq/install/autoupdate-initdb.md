@@ -42,7 +42,3 @@ systemctl restart hiddify-panel hiddify-panel-background-tasks
 ## Источники
 
 Из обсуждений в [@hiddify_board](https://t.me/hiddify_board), русский топик: [522887](https://t.me/hiddify_board/433634/522887), [586306](https://t.me/hiddify_board/433634/586306), [586308](https://t.me/hiddify_board/433634/586308). На основе опыта автора hiddify-faq.
-
----
-
-Не помогло или есть уточняющий вопрос - заходите в русское сообщество [@hiddify_rus](https://t.me/hiddify_rus).

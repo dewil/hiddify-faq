@@ -68,7 +68,3 @@ bash /opt/hiddify-manager/status.sh 2>&1 | head -30
 ## Источники
 
 На основе опыта автора hiddify-faq.
-
----
-
-Не помогло или есть уточняющий вопрос - заходите в русское сообщество [@hiddify_rus](https://t.me/hiddify_rus).

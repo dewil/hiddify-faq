@@ -109,7 +109,3 @@ curl -s --max-time 12 --socks5-hostname 127.0.0.1:<port> https://api.ipify.org
 ## Источники
 
 На основе опыта автора hiddify-faq.
-
----
-
-Не помогло или есть уточняющий вопрос - заходите в русское сообщество [@hiddify_rus](https://t.me/hiddify_rus).

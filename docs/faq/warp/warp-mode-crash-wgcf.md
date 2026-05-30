@@ -56,7 +56,3 @@ rm -f wgcf-account.toml wgcf-profile.conf
 ## Источники
 
 Из обсуждений в [@hiddify_board](https://t.me/hiddify_board), русский топик: [505578](https://t.me/hiddify_board/433634/505578), [512297](https://t.me/hiddify_board/433634/512297), [572255](https://t.me/hiddify_board/433634/572255), [580156](https://t.me/hiddify_board/433634/580156), [583922](https://t.me/hiddify_board/433634/583922), [584585](https://t.me/hiddify_board/433634/584585), [584597](https://t.me/hiddify_board/433634/584597), [586659](https://t.me/hiddify_board/433634/586659).
-
----
-
-Не помогло или есть уточняющий вопрос - заходите в русское сообщество [@hiddify_rus](https://t.me/hiddify_rus).

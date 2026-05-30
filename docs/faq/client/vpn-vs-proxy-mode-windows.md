@@ -40,7 +40,3 @@ tags:
 ## Источники
 
 Из обсуждений в [@hiddify_board](https://t.me/hiddify_board), русский топик: [503368](https://t.me/hiddify_board/433634/503368), [526532](https://t.me/hiddify_board/433634/526532), [581909](https://t.me/hiddify_board/433634/581909), [508585](https://t.me/hiddify_board/433634/508585), [532315](https://t.me/hiddify_board/433634/532315), [537833](https://t.me/hiddify_board/433634/537833), [512151](https://t.me/hiddify_board/433634/512151), [537354](https://t.me/hiddify_board/433634/537354).
-
----
-
-Не помогло или есть уточняющий вопрос - заходите в русское сообщество [@hiddify_rus](https://t.me/hiddify_rus).
