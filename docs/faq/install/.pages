@@ -9,3 +9,4 @@ nav:
   - SSH на сервере с Hiddify рвет соединения при всплеске подключений: sshd-maxstartups.md
   - Нужен ли домен для Hiddify и какой VPS выбрать: do-i-need-domain-and-vps-choice.md
   - 'Установщик не качается: raw.githubusercontent.com режется в РФ': raw-githubusercontent-blocked-ru-install.md
+  - Как откатить Hiddify-панель на нужную версию и отключить автообновление: hiddify-version-rollback.md
