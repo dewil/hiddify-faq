@@ -3,3 +3,5 @@ nav:
   - Hiddify Panel не ставится или отдает 503: panel-install-troubleshooting.md
   - Hiddify - 0 пользователей онлайн в админке: bg-tasks-pending-rollback.md
   - Decoy Site = свой домен - бесконечный proxy-loop: decoy-site-self-loop.md
+  - Несколько серверов под одной панелью и каскад - что умеет Hiddify: multi-node-and-cascade.md
+  - Встроенный Telegram-бот Hiddify не отвечает на /start: telegram-bot-not-responding.md
