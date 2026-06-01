@@ -1,3 +1,4 @@
 title: Mihomo-каскад
 nav:
   - Hiddify через mihomo - настройка цепочки: hiddify-via-mihomo.md
+  - Relay-сервер для Hiddify - промежуточный сервер фронт-бэк: relay-server-front-to-back.md

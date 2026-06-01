@@ -5,3 +5,4 @@ nav:
   - Hiddify шаблоны .pj2 - партиалы без парного .json: hiddify-pj2-partials.md
   - apply_configs.sh - всегда с --no-gui --no-log: apply-configs-no-gui.md
   - Низкая скорость и слабый аплоад через Hiddify - что делать: low-speed-troubleshooting.md
+  - Что такое MUX и нужно ли его включать: mux-multiplexing.md
