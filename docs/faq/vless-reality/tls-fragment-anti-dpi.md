@@ -46,3 +46,7 @@ tags:
 ## Источники
 
 На основе официальной документации [Hiddify Manager](https://hiddify.com/manager/): [TLS Trick](https://hiddify.com/manager/basic-concepts-and-troubleshooting/How-the-TLS-Trick-works-and-its-usage/), [подбор значений](https://hiddify.com/manager/basic-concepts-and-troubleshooting/A-good-way-to-find-TLS-trick-values/).
+
+---
+
+Не помогло или есть уточняющий вопрос - заходите в русское сообщество [@hiddify_rus](https://t.me/hiddify_rus).

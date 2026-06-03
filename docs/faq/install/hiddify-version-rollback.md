@@ -43,3 +43,7 @@ bash <(curl https://i.hiddify.com/develop)
 ## Источники
 
 Из обсуждений в [@hiddify_board](https://t.me/hiddify_board), русский топик: [id1](https://t.me/hiddify_board/433634/521774), [id2](https://t.me/hiddify_board/433634/570273), [id3](https://t.me/hiddify_board/433634/587820), [id4](https://t.me/hiddify_board/433634/586238), [id5](https://t.me/hiddify_board/433634/473867), [id6](https://t.me/hiddify_board/433634/588070)
+
+---
+
+Не помогло или есть уточняющий вопрос - заходите в русское сообщество [@hiddify_rus](https://t.me/hiddify_rus).

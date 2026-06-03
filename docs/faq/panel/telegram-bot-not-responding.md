@@ -35,3 +35,7 @@ tags:
 ## Источники
 
 Из обсуждений в [@hiddify_board](https://t.me/hiddify_board), русский топик: [521816](https://t.me/hiddify_board/433634/521816), [527253](https://t.me/hiddify_board/433634/527253), [523653](https://t.me/hiddify_board/433634/523653), [524896](https://t.me/hiddify_board/433634/524896), [528259](https://t.me/hiddify_board/433634/528259), [567634](https://t.me/hiddify_board/433634/567634). Статус бага сверен с issue-трекером [hiddify/Hiddify-Manager](https://github.com/hiddify/Hiddify-Manager/issues).
+
+---
+
+Не помогло или есть уточняющий вопрос - заходите в русское сообщество [@hiddify_rus](https://t.me/hiddify_rus).

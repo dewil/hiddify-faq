@@ -37,3 +37,7 @@ VPN складывается из двух разных частей:
 ## Источники
 
 Из обсуждений в [@hiddify_board](https://t.me/hiddify_board), русский топик: [529473](https://t.me/hiddify_board/433634/529473), [534563](https://t.me/hiddify_board/433634/534563), [565624](https://t.me/hiddify_board/433634/565624), [540458](https://t.me/hiddify_board/433634/540458), [565448](https://t.me/hiddify_board/433634/565448), [526551](https://t.me/hiddify_board/433634/526551).
+
+---
+
+Не помогло или есть уточняющий вопрос - заходите в русское сообщество [@hiddify_rus](https://t.me/hiddify_rus).

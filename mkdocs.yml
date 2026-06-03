@@ -60,3 +60,9 @@ markdown_extensions:
 
 extra_javascript:
   - assets/js/external-links.js
+
+extra:
+  social:
+    - icon: fontawesome/brands/telegram
+      link: https://t.me/hiddify_rus
+      name: Русское сообщество Hiddify

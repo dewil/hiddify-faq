@@ -46,3 +46,7 @@ curl -sI https://www.instagram.com -m 10
 Из обсуждений в [@hiddify_board](https://t.me/hiddify_board), русский топик: [437714](https://t.me/hiddify_board/433634/437714), [511767](https://t.me/hiddify_board/433634/511767), [512994](https://t.me/hiddify_board/433634/512994), [513024](https://t.me/hiddify_board/433634/513024), [516530](https://t.me/hiddify_board/433634/516530), [516709](https://t.me/hiddify_board/433634/516709), [529549](https://t.me/hiddify_board/433634/529549), [536205](https://t.me/hiddify_board/433634/536205), [536250](https://t.me/hiddify_board/433634/536250), [540423](https://t.me/hiddify_board/433634/540423)
 
 На основе опыта автора hiddify-faq.
+
+---
+
+Не помогло или есть уточняющий вопрос - заходите в русское сообщество [@hiddify_rus](https://t.me/hiddify_rus).

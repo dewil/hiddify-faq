@@ -51,3 +51,7 @@ scp myserver:/opt/hiddify-manager/hiddify-panel/backup/<файл>.json ./
 ## Источники
 
 На основе официальной документации [Hiddify Manager](https://hiddify.com/manager/): [Backup and restore](https://hiddify.com/manager/configuration-and-advanced-settings/How-to-backup-and-restore-panel-on-Hiddify/) и [Transfer files between a server and a computer](https://hiddify.com/manager/basic-concepts-and-troubleshooting/How-to-transfer-files-between-a-server-and-a-computer/).
+
+---
+
+Не помогло или есть уточняющий вопрос - заходите в русское сообщество [@hiddify_rus](https://t.me/hiddify_rus).

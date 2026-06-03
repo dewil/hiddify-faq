@@ -42,3 +42,7 @@ Hiddify-клиент (Android/iOS/Desktop) собран на sing-box; Happ/V2Ra
 ## Источники
 
 Из обсуждений в [@hiddify_board](https://t.me/hiddify_board), русский топик: [437730](https://t.me/hiddify_board/433634/437730), [437980](https://t.me/hiddify_board/433634/437980), [440743](https://t.me/hiddify_board/433634/440743), [441424](https://t.me/hiddify_board/433634/441424), [517071](https://t.me/hiddify_board/433634/517071), [532032](https://t.me/hiddify_board/433634/532032), [583546](https://t.me/hiddify_board/433634/583546), [586749](https://t.me/hiddify_board/433634/586749).
+
+---
+
+Не помогло или есть уточняющий вопрос - заходите в русское сообщество [@hiddify_rus](https://t.me/hiddify_rus).

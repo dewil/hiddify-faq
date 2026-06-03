@@ -75,3 +75,7 @@ nginx -s reload -c /opt/hiddify-manager/nginx/nginx.conf
 ## Источники
 
 На основе опыта автора hiddify-faq.
+
+---
+
+Не помогло или есть уточняющий вопрос - заходите в русское сообщество [@hiddify_rus](https://t.me/hiddify_rus).

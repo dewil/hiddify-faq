@@ -35,3 +35,7 @@ MUX полезен, когда нужно скрыть картину трафи
 ## Источники
 
 На основе официальной документации [Hiddify Manager](https://hiddify.com/manager/): [How MUX works and its usage](https://hiddify.com/manager/basic-concepts-and-troubleshooting/How-MUX-works-and-its-usage/).
+
+---
+
+Не помогло или есть уточняющий вопрос - заходите в русское сообщество [@hiddify_rus](https://t.me/hiddify_rus).

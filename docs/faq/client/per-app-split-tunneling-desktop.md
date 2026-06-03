@@ -37,3 +37,7 @@ Hiddify на Windows и macOS умеет маршрутизировать тра
 ## Источники
 
 Из обсуждений в [@hiddify_board](https://t.me/hiddify_board), русский топик: [511107](https://t.me/hiddify_board/433634/511107), [526643](https://t.me/hiddify_board/433634/526643), [535238](https://t.me/hiddify_board/433634/535238), [566259](https://t.me/hiddify_board/433634/566259), [576418](https://t.me/hiddify_board/433634/576418), [581967](https://t.me/hiddify_board/433634/581967).
+
+---
+
+Не помогло или есть уточняющий вопрос - заходите в русское сообщество [@hiddify_rus](https://t.me/hiddify_rus).

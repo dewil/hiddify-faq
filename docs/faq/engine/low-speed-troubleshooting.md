@@ -44,3 +44,7 @@ sudo sysctl -p
 ## Источники
 
 Из обсуждений в [@hiddify_board](https://t.me/hiddify_board), русский топик: [id1](https://t.me/hiddify_board/433634/570183), [id2](https://t.me/hiddify_board/433634/526890), [id3](https://t.me/hiddify_board/433634/513027), [id4](https://t.me/hiddify_board/433634/565735), [id5](https://t.me/hiddify_board/433634/529549), [id6](https://t.me/hiddify_board/433634/529136).
+
+---
+
+Не помогло или есть уточняющий вопрос - заходите в русское сообщество [@hiddify_rus](https://t.me/hiddify_rus).
