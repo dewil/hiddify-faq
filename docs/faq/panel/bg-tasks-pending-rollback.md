@@ -76,6 +76,9 @@ systemctl start hiddify-panel-background-tasks hiddify-panel
 
 ## Источники
 
+!!! note "Ссылки на сообщения не открываются"
+    Русский топик в @hiddify_board удалён - прямые ссылки на его сообщения ниже больше не работают. Материал из них сохранён и пересказан на этой странице. Обсуждение - в [@hiddify_rus](https://t.me/hiddify_rus).
+
 Из обсуждений в [@hiddify_board](https://t.me/hiddify_board), русский топик: [436208](https://t.me/hiddify_board/433634/436208) (дашборд показывает 0 после обновления), [582467](https://t.me/hiddify_board/433634/582467) (свежий сервер 12.0.0, трафик идет, в панели 0). На основе опыта автора hiddify-faq.
 
 ---

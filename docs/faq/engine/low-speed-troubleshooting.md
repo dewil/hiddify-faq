@@ -43,6 +43,9 @@ sudo sysctl -p
 
 ## Источники
 
+!!! note "Ссылки на сообщения не открываются"
+    Русский топик в @hiddify_board удалён - прямые ссылки на его сообщения ниже больше не работают. Материал из них сохранён и пересказан на этой странице. Обсуждение - в [@hiddify_rus](https://t.me/hiddify_rus).
+
 Из обсуждений в [@hiddify_board](https://t.me/hiddify_board), русский топик: [id1](https://t.me/hiddify_board/433634/570183), [id2](https://t.me/hiddify_board/433634/526890), [id3](https://t.me/hiddify_board/433634/513027), [id4](https://t.me/hiddify_board/433634/565735), [id5](https://t.me/hiddify_board/433634/529549), [id6](https://t.me/hiddify_board/433634/529136).
 
 ---

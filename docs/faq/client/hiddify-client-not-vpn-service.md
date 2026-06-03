@@ -36,6 +36,9 @@ VPN складывается из двух разных частей:
 
 ## Источники
 
+!!! note "Ссылки на сообщения не открываются"
+    Русский топик в @hiddify_board удалён - прямые ссылки на его сообщения ниже больше не работают. Материал из них сохранён и пересказан на этой странице. Обсуждение - в [@hiddify_rus](https://t.me/hiddify_rus).
+
 Из обсуждений в [@hiddify_board](https://t.me/hiddify_board), русский топик: [529473](https://t.me/hiddify_board/433634/529473), [534563](https://t.me/hiddify_board/433634/534563), [565624](https://t.me/hiddify_board/433634/565624), [540458](https://t.me/hiddify_board/433634/540458), [565448](https://t.me/hiddify_board/433634/565448), [526551](https://t.me/hiddify_board/433634/526551).
 
 ---

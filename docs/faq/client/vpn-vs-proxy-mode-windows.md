@@ -39,6 +39,9 @@ tags:
 
 ## Источники
 
+!!! note "Ссылки на сообщения не открываются"
+    Русский топик в @hiddify_board удалён - прямые ссылки на его сообщения ниже больше не работают. Материал из них сохранён и пересказан на этой странице. Обсуждение - в [@hiddify_rus](https://t.me/hiddify_rus).
+
 Из обсуждений в [@hiddify_board](https://t.me/hiddify_board), русский топик: [503368](https://t.me/hiddify_board/433634/503368), [526532](https://t.me/hiddify_board/433634/526532), [581909](https://t.me/hiddify_board/433634/581909), [508585](https://t.me/hiddify_board/433634/508585), [532315](https://t.me/hiddify_board/433634/532315), [537833](https://t.me/hiddify_board/433634/537833), [512151](https://t.me/hiddify_board/433634/512151), [537354](https://t.me/hiddify_board/433634/537354).
 
 ---

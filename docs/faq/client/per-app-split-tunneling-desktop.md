@@ -36,6 +36,9 @@ Hiddify на Windows и macOS умеет маршрутизировать тра
 
 ## Источники
 
+!!! note "Ссылки на сообщения не открываются"
+    Русский топик в @hiddify_board удалён - прямые ссылки на его сообщения ниже больше не работают. Материал из них сохранён и пересказан на этой странице. Обсуждение - в [@hiddify_rus](https://t.me/hiddify_rus).
+
 Из обсуждений в [@hiddify_board](https://t.me/hiddify_board), русский топик: [511107](https://t.me/hiddify_board/433634/511107), [526643](https://t.me/hiddify_board/433634/526643), [535238](https://t.me/hiddify_board/433634/535238), [566259](https://t.me/hiddify_board/433634/566259), [576418](https://t.me/hiddify_board/433634/576418), [581967](https://t.me/hiddify_board/433634/581967).
 
 ---
