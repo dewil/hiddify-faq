@@ -10,3 +10,4 @@ nav:
   - Нужен ли домен для Hiddify и какой VPS выбрать: do-i-need-domain-and-vps-choice.md
   - 'Установщик не качается: raw.githubusercontent.com режется в РФ': raw-githubusercontent-blocked-ru-install.md
   - Как откатить Hiddify-панель на нужную версию и отключить автообновление: hiddify-version-rollback.md
+  - Как проверить, из какой страны реально выходит нода (гео-проверка exit-IP): verify-node-exit-geo.md
