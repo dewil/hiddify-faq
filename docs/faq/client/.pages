@@ -8,4 +8,5 @@ nav:
   - Режим VPN или Proxy в клиенте Hiddify и почему в Windows "нет сети": vpn-vs-proxy-mode-windows.md
   - 'Раздельное туннелирование: российские сайты напрямую, остальное через VPN': split-tunnel-ru-direct.md
   - Раздельное туннелирование по приложениям на ПК - почему нет и чем заменить: per-app-split-tunneling-desktop.md
+  - Happ на Android - прокси для выбранных приложений (ВЫКЛ, ВКЛ, Обход): happ-per-app-proxy-modes.md
   - Купил подписку, а не свой сервер - что делать и к кому обращаться: subscription-vs-own-server.md
