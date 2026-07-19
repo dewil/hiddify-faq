@@ -7,3 +7,5 @@ nav:
   - Встроенный Telegram-бот Hiddify не отвечает на /start: telegram-bot-not-responding.md
   - После обновления панели Hiddify перестали создаваться бэкапы: backup-broken-after-update.md
   - Бэкап и перенос панели Hiddify: panel-backup-restore-migrate.md
+  - Восстановление виснет или падает с JSONDecodeError: restore-hangs-extra-params.md
+  - Веб-восстановление висит - как довести из консоли: panel-restore-console.md
