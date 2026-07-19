@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://dewil.github.io/hiddify-faq/sitemap.xml
