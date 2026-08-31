@@ -9,4 +9,5 @@ nav:
   - 'Раздельное туннелирование: российские сайты напрямую, остальное через VPN': split-tunnel-ru-direct.md
   - Раздельное туннелирование по приложениям на ПК - почему нет и чем заменить: per-app-split-tunneling-desktop.md
   - Happ на Android - прокси для выбранных приложений (ВЫКЛ, ВКЛ, Обход): happ-per-app-proxy-modes.md
+  - При включенном VPN пропадают телевизор, принтер и другие устройства в квартире: local-devices-disappear-under-vpn.md
   - Купил подписку, а не свой сервер - что делать и к кому обращаться: subscription-vs-own-server.md
