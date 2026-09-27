@@ -1,5 +1,5 @@
 ---
-title: Какой протокол выбрать для России: VLESS, Reality, Trojan, Shadowsocks
+title: 'Какой протокол выбрать для России: VLESS, Reality, Trojan, Shadowsocks'
 description: Как выбрать протокол Hiddify под российский DPI в 2026 году - что реально живет под блокировками и почему "VLESS перестал работать" обычно не про сам VLESS.
 tags:
   - vless-reality

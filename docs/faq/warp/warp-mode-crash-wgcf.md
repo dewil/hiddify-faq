@@ -1,6 +1,6 @@
 ---
 title: Hiddify не запускается, ошибка Checking WARP / wgcf-account.toml
-description: Что делать, если установка или запуск Hiddify падает с WARP ERROR и "mv: cannot stat 'wgcf-account.toml'".
+description: 'Что делать, если установка или запуск Hiddify падает с WARP ERROR и "mv: cannot stat ''wgcf-account.toml''".'
 tags:
   - warp
   - install

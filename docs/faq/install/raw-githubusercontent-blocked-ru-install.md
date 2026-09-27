@@ -1,5 +1,5 @@
 ---
-title: Установщик не качается: raw.githubusercontent.com режется в РФ
+title: 'Установщик не качается: raw.githubusercontent.com режется в РФ'
 description: При установке Hiddify через curl с raw.githubusercontent.com рвется TLS-соединение в РФ. Разбираем симптомы и практичные обходы.
 tags:
   - install
